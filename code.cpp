@@ -91,7 +91,7 @@ public:
 
     void showMenu() {
         cout << "\n🎮 Commands:\n";
-        cout << "1. Roll 1 die\n";
+        cout << "1. Roll 1 dice\n";
         cout << "2. Roll 2 dice\n";
         cout << "3. Roll 3 dice\n";
         cout << "4. Clear history\n";
